@@ -23,16 +23,17 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 ## Vivliostyle Pubでできること
 
-- CSS組版結果をプレビューしながら執筆・編集ができる
+- 組版結果をプレビュー確認しながら執筆・編集ができる
 - 簡易なマークダウン記法で原稿が書ける
-  - VFM (Vivliostyle Flavored Markdown)
-    - 本の執筆のために最適化されたMarkdown記法
-    - GitHubのMarkdown (GFM)をベースに若干の拡張記法を取り入れたもの（属性、ルビ、数式、など）
-    - 仕様: https://vivliostyle.github.io/vfm/#/ja/vfm
+  - [VFM (Vivliostyle Flavored Markdown)](https://vivliostyle.github.io/vfm/#/ja/vfm)
 - ページデザインは、テーマから選べる
   - 既存テーマをカスタマイズしたり自分でCSS書いてもよい
+- GitHub利用。原稿変更履歴がGitHubに保存される
 - 多数の原稿からなる出版物制作、その共同編集作業も可能
-- PDF出力、Web出版物、EPUB（予定）
+- PDF出力、Web出版物、EPUB出力（予定）
 
+## Vivliostyle Pubで作った本の印刷製本には
+
+Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう、印刷製本サービスの[mybooks POD](https://pod.mybooks.jp/)<small>（欧文印刷株式会社）</small>と提携。
 
 
