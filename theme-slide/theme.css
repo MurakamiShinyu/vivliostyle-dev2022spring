@@ -41,7 +41,7 @@ html {
 body > section:first-child {
   page: cover;
   background-color: #212057;
-  background-image: url(https://vivliostyle.org/assets/header-image.svg);
+  background-image: url(header-image.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
