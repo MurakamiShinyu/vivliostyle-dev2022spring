@@ -1,0 +1,20 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "author": "MurakamiShinyu <murakami@vivliostyle.org>",
+  "inLanguage": "ja",
+  "dateModified": "2022-04-21T06:21:27.437Z",
+  "name": "Vivliostyleの2022年開発計画を展望する",
+  "readingOrder": [
+    {
+      "url": "slide.html",
+      "name": "Vivliostyleの2022年開発計画を展望する"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
