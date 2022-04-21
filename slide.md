@@ -19,5 +19,5 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 ユーザガイド: https://vivliostyle.github.io/docs-vivliostyle-pub/
 
-
+![ ](img/screenshot-vivpub.png){height=200 alt="Vivliostyle Pubで執筆中の画面"}
 
