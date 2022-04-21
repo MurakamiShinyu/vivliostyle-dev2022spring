@@ -12,3 +12,12 @@ Vivliostyle Foundation
 # Vivliostyle Pub {#vivliostyle-pub}
 
 ## Vivliostyle Pubアルファ版公開 {#pub-alpha}
+
+CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
+
+アルファ版: https://vivliostyle-pub-develop.vercel.app/
+
+ユーザガイド: https://vivliostyle.github.io/docs-vivliostyle-pub/
+
+
+
