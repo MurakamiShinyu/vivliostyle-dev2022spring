@@ -9,7 +9,7 @@ Vivliostyle Foundation
 1. [Vivliostyle Pub](#vivliostyle-pub)
   1. [Vivliostyle Pubアルファ版公開](#pub-alpha)
 
-# Vivliostyle Pub {#vivliostyle-pub}
+# Vivliostyle Pub、<br>2022年ついに公開！ {#vivliostyle-pub}
 
 ## Vivliostyle Pubアルファ版公開 {#pub-alpha}
 
@@ -69,5 +69,4 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
 
-
-# 
+# Vivliostyle.js
