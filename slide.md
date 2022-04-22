@@ -17,7 +17,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 アルファ版: https://vivliostyle-pub-develop.vercel.app/
 
-ユーザガイド: https://vivliostyle.github.io/docs-vivliostyle-pub/
+ユーザーガイド: https://vivliostyle.github.io/docs-vivliostyle-pub/
 
 ![Vivliostyle Pubで執筆中の画面](img/screenshot-vivpub.png){height=200}
 
@@ -31,7 +31,19 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 - Webフォント対応
 - GitHub利用。原稿変更履歴がGitHubに保存される
 - 多数の原稿からなる出版物制作、その共同編集作業も可能
-- PDF出力、Web出版物、EPUB出力（予定）
+- PDF出力、Web出版物(WebBook)、EPUB生成（予定）
+
+## アルファ版の主な制限と、今後の開発
+
+まだアルファ版なので出来ないことや制限が多々あります。<br>
+以下は、今は出来ないけれど今後開発予定の機能の主なもの
+
+- EPUB生成
+- スタイルテーマの充実とページデザインのカスタマイズ機能
+- 印刷用PDFと閲覧用PDFなど、目的別のPDF出力設定
+- 目次自動作成
+- 索引作成補助
+- 表紙・背表紙・裏表紙の作成補助
 
 ## Vivliostyle Pubで作った本の印刷製本には
 
@@ -48,7 +60,8 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 ![](img/pub-contributors.png){height=330 style="float: right; margin-bottom: -50px"}
 
+開発協力者募集中！
+
 - [Vivliostyle PubのContributorsをGitHubで見る](https://github.com/vivliostyle/vivliostyle-pub/graphs/contributors)
 
-![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}
-
+![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
