@@ -19,7 +19,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 ユーザーガイド: https://vivliostyle.github.io/docs-vivliostyle-pub/
 
-![Vivliostyle Pubでこのスライドを執筆中の画面](img/screenshot-vivpub.png){height=200}
+![Vivliostyle Pubで執筆中の画面](img/screenshot-vivpub.png){height=200}
 
 ## Vivliostyle Pubでできること
 
