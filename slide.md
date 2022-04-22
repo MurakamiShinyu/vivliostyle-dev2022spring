@@ -28,6 +28,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
   - [VFM (Vivliostyle Flavored Markdown)](https://vivliostyle.github.io/vfm/#/ja/vfm)
 - ページデザインは、テーマから選べる
   - 既存テーマをカスタマイズしたり自分でCSS書いてもよい
+- Webフォント対応
 - GitHub利用。原稿変更履歴がGitHubに保存される
 - 多数の原稿からなる出版物制作、その共同編集作業も可能
 - PDF出力、Web出版物、EPUB出力（予定）
