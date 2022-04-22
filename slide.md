@@ -23,6 +23,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 ## Vivliostyle Pubでできること
 
+- 無料、インストール不要、Webブラウザだけで本が作れる
 - 組版結果をプレビュー確認しながら執筆・編集ができる
 - 簡易なマークダウン記法で原稿が書ける
   - [VFM (Vivliostyle Flavored Markdown)](https://vivliostyle.github.io/vfm/#/ja/vfm)
@@ -69,3 +70,4 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
 
 
+# 
