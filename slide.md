@@ -37,7 +37,10 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう、印刷製本サービスの[mybooks POD](https://pod.mybooks.jp/)<small>（欧文印刷株式会社）</small>と提携。
 
-![Vivliostyle → mybooks PODで印刷製本した本の見本](img/mybookphoto.jpg){height=200}
+![Vivliostyle → mybooks PODで印刷製本した本の見本](img/mybookphoto.jpg){height=150}
+
+- Vivliostyle Pubから提携先サービスに繋げるようにする予定
+- 印刷製本、電子書籍配信等、提携に関心あればご連絡下さい
 
 ## Vivliostyle Pubの開発貢献者たちに感謝！
 
@@ -48,3 +51,4 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 - [Vivliostyle PubのContributorsをGitHubで見る](https://github.com/vivliostyle/vivliostyle-pub/graphs/contributors)
 
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}
+
