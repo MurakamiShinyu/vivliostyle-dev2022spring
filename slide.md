@@ -63,10 +63,14 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 ![](img/pub-contributors.png){height=330 style="float: right; margin-bottom: -50px"}
 
-開発協力者募集中！
+開発協力者募集！
 
 - [Vivliostyle PubのContributorsをGitHubで見る](https://github.com/vivliostyle/vivliostyle-pub/graphs/contributors)
 
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
 
-# Vivliostyle.js
+# Vivliostyle Pubのコンポーネント
+
+# Vivliostyle Site
+
+# Vivliostyle.js CSS組版エンジン
