@@ -42,6 +42,8 @@ Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう�
 
 Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープンソースでボランティアの開発貢献者たちで開発されてます。
 
+![](img/pub-contributors.png){height=330 style="float: right; margin-bottom: -50px"}
 
+- [Vivliostyle PubのContributorsをGitHubで見る](https://github.com/vivliostyle/vivliostyle-pub/graphs/contributors)
 
-
+![この2年間のコミットのグラフ](img/pub-contribution.png){height=150}
