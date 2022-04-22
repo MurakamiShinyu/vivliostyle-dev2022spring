@@ -86,10 +86,8 @@ https://github.com/vivliostyle/themes/issues
 これからの課題:<br>
 https://github.com/vivliostyle/vivliostyle-cli/issues
 
-Vivliostyle Pubのためにも必要な機能:
 - EPUB生成をサポート
 - 出力PDFに境界ボックス（TrimBox、BleedBoxなど）付加
-- スタイルテーマのカスタマイズをもっと簡単に
 
 など。
 
@@ -97,6 +95,10 @@ Vivliostyle Pubのためにも必要な機能:
 
 これからの課題:<br>
 https://github.com/vivliostyle/vfm/issues
+
+- v2.0の開発
+  - パーサーに使用しているremark-parseを更新
+  - [要望の多いMarkdown拡張記法の追加](https://github.com/vivliostyle/vfm/issues?q=is%3Aopen+is%3Aissue+milestone%3Av2.0.0+label%3Aspec)
 
 
 ## Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新
