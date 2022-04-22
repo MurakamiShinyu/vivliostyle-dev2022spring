@@ -69,8 +69,36 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
 
-# Vivliostyle Pubのコンポーネント
+# Vivliostyle Pubを支える関連プロジェクト
 
-# Vivliostyle Site
+## Vivliostyle Themes　スタイルテーマ
+
+これからの課題:<br>
+https://github.com/vivliostyle/themes/issues
+
+- 実用的なスタイルテーマの充実
+- カスタマイズしやすいしくみを作ること
+
+など。
+
+## Vivliostyle CLI　コマンドラインツール
+
+これからの課題:<br>
+https://github.com/vivliostyle/vivliostyle-cli/issues
+
+Vivliostyle Pubのためにも必要な機能:
+- EPUB生成をサポート
+- 出力PDFに境界ボックス（TrimBox、BleedBoxなど）付加
+- スタイルテーマのカスタマイズをもっと簡単に
+
+など。
+
+## VFM (Vivliostyle Flavored Markdown)
+
+これからの課題:<br>
+https://github.com/vivliostyle/vfm/issues
+
+
+## Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新
 
 # Vivliostyle.js CSS組版エンジン
