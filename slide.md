@@ -104,7 +104,12 @@ https://github.com/vivliostyle/vfm/issues
 
 ## Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新
 
-Vivliostyle Sitegen
+Vivliostyleで使うMarkdown記法をVFMとして定めたので、Vivliostyle公式サイトやドキュメント類を書くのにもそれを使いたい！
+
+そこで、VFMで書いてWebサイトを作成するための、静的サイトジェネレーターVivliostyle Sitegenが作られました：  
+https://github.com/vivliostyle/vivliostyle-sitegen
+
+今後このツールを使って、Vivliostyle公式サイトやドキュメント類をリニューアル予定。WebサイトをそのままVivliostyle CSS組版でプリント・レイアウトにするのも簡単に。
 
 
 # Vivliostyle.js CSS組版エンジン
