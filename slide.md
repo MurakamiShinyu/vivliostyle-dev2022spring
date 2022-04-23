@@ -114,6 +114,18 @@ https://github.com/vivliostyle/vivliostyle-sitegen
 
 # Vivliostyle.js:<br>CSS組版エンジン(Core)およびViewer
 
+## Vivliostyle.js CSS組版エンジン(Core)
+
+これからの課題:<br>
+https://github.com/vivliostyle/vivliostyle.js/issues
+
+- Webブラウザで利用できる標準のCSS機能がVivliostyle.jsで利用できない問題が残っているのを解消:
+  - [Support CSS Grid Layout](https://github.com/vivliostyle/vivliostyle.js/issues/539)
+  - [Support CSS custom properties (variables)](https://github.com/vivliostyle/vivliostyle.js/issues/540)
+  
+  など。CSSプロパティ処理を刷新し、ブラウザのCSS機能をVivliostyleでフルサポートできるように。
+- ページ、段組の組版処理を刷新して、[ルートやbody要素以外に指定された段組で起きていた不具合](https://github.com/vivliostyle/vivliostyle.js/issues/579)を解消。
+
 ## Vivliostyle Viewerの機能向上
 
 Vivliostyle Viewerを電子出版ビューアとして用いるニーズから、これまでも次のような機能向上をしてきました：
@@ -123,3 +135,5 @@ Vivliostyle Viewerを電子出版ビューアとして用いるニーズから�
 - テキスト検索機能
 
 2022年、さらなる機能向上を予定しています。お楽しみに。
+
+#
