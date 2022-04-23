@@ -71,7 +71,7 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 # Vivliostyle Pubを支える関連プロジェクト
 
-## Vivliostyle Themes　スタイルテーマ
+## Vivliostyle Themes スタイルテーマ
 
 これからの課題:<br>
 https://github.com/vivliostyle/themes/issues
@@ -81,7 +81,7 @@ https://github.com/vivliostyle/themes/issues
 
 など。
 
-## Vivliostyle CLI　コマンドラインツール
+## Vivliostyle CLI コマンドラインツール
 
 これからの課題:<br>
 https://github.com/vivliostyle/vivliostyle-cli/issues
