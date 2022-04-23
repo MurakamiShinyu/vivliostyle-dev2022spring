@@ -112,4 +112,14 @@ https://github.com/vivliostyle/vivliostyle-sitegen
 今後このツールを使って、Vivliostyle公式サイトやドキュメント類を刷新していく予定。WebサイトをそのままVivliostyle CSS組版でプリント・レイアウトにするのも簡単に。
 
 
-# Vivliostyle.js CSS組版エンジン
+# Vivliostyle.js:<br>CSS組版エンジン(Core)およびViewer
+
+## Vivliostyle Viewerの機能向上
+
+Vivliostyle Viewerを電子出版ビューアとして用いるニーズから、これまでも次のような機能向上をしてきました：
+
+- 目次パネルからのナビゲーション
+- スライドバーでのページ移動などビューアとしての操作性の向上
+- テキスト検索機能
+
+2022年、さらなる機能向上を予定しています。お楽しみに。
