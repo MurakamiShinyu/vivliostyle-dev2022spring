@@ -136,4 +136,17 @@ Vivliostyle Viewerを電子出版ビューアとして用いるニーズから�
 
 2022年、さらなる機能向上を予定しています。お楽しみに。
 
-#
+# Thank you! Contributors, Sponsors, and Partners
+
+## Vivliostyleは皆様に支えられているオープンソース・プロジェクトです
+
+開発貢献者たち、スポンサー、協力者の皆様に感謝します！
+
+使ってくれて不具合の報告や要望を書いてくれる皆様にも感謝
+
+- コミュニティ→ https://vivliostyle.org/ja/community/
+- あなたも Vivliostyle のスポンサーになりませんか→ https://vivliostyle.org/ja/sponsors/
+
+Vivliostyleのサービスやプロダクトをビジネスで利用する上での相談なども歓迎します。ぜひお問合せください。
+
+私たちについて→ https://vivliostyle.org/ja/about-us/
