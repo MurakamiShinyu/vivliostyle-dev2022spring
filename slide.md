@@ -6,8 +6,22 @@ Vivliostyle Foundation
 
 # 目次 {.toc role="doc-toc"}
 
-1. [Vivliostyle Pub、2022年ついに公開！](#vivliostyle-pub)
-  1. [Vivliostyle Pubアルファ版公開](#pub-alpha)
+1. [Vivliostyle Pub、2022年ついに公開！]{#vivliostyle-pub}
+    1. [Vivliostyle Pubアルファ版公開]{#pub-alpha}
+    1. [Vivliostyle Pubでできること]{#pub-features}
+    1. [アルファ版の主な制限と、今後の開発]{#pub-dev-plan}
+    1. [Vivliostyle Pubで作った本の印刷製本には]{#pub-print-book}
+    1. [Vivliostyle Pubの開発貢献者たちに感謝！ (#pub-thanks-contrib)
+1. [Vivliostyle Pubを支える関連プロジェクト]{#pub-rel-projects}
+    1. [Vivliostyle Themes スタイルテーマ]{#themes}
+    1. [Vivliostyle CLI コマンドラインツール]{#cli}
+    1. [VFM (Vivliostyle Flavored Markdown)]{#vfm}
+    1. [Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新]{#sitegen}
+1. [Vivliostyle.js:CSS組版エンジン(Core)およびViewer]{#js}
+    1. [Vivliostyle.js CSS組版エンジン(Core)]{#core}
+    1. [Vivliostyle Viewerの機能向上]{#viewer}
+1. [Thank you! Contributors, Sponsors, and Partners]{#thanks}
+    1. [Vivliostyleは皆様に支えられているオープンソース・プロジェクトです]{#thanks-all}
 
 # Vivliostyle Pub、<br>2022年ついに公開！ {#vivliostyle-pub}
 
@@ -21,7 +35,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 
 ![Vivliostyle Pubで執筆中の画面](img/screenshot-vivpub.png){height=200}
 
-## Vivliostyle Pubでできること
+## Vivliostyle Pubでできること {#pub-features}
 
 - 無料、インストール不要、Webブラウザだけで本が作れる
 - 組版結果をプレビュー確認しながら執筆・編集ができる
@@ -34,7 +48,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 - 多数の原稿からなる出版物制作、その共同編集作業も可能
 - PDF出力、Web出版物(WebBook)、EPUB生成（予定）
 
-## アルファ版の主な制限と、今後の開発
+## アルファ版の主な制限と、今後の開発 {#pub-dev-plan}
 
 まだアルファ版なので出来てない機能や制限が多々あります。  
 以下は、今はまだないけれど今後開発予定の機能の主なもの
@@ -48,7 +62,7 @@ CSS組版で本を作るWebアプリVivliostyle Pub、ついに公開！
 - EPUB生成機能、EPUBやWeb出版物での作品公開を簡単に
 - 出版物メタデータの設定・編集機能
 
-## Vivliostyle Pubで作った本の印刷製本には
+## Vivliostyle Pubで作った本の印刷製本には {#pub-print-book}
 
 Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう、印刷製本サービスの[mybooks POD](https://pod.mybooks.jp/)<small>（欧文印刷株式会社）</small>と提携。
 
@@ -57,7 +71,7 @@ Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう�
 - Vivliostyle Pubから提携先サービスに繋げるようにする予定
 - 印刷製本、電子書籍配信等、提携に関心あればご連絡下さい
 
-## Vivliostyle Pubの開発貢献者たちに感謝！
+## Vivliostyle Pubの開発貢献者たちに感謝！ (#pub-thanks-contrib)
 
 Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープンソースでボランティアの開発貢献者たちで開発されてます。
 
@@ -69,9 +83,9 @@ Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープン
 
 ![この2年間のコミットのグラフ](img/pub-contribution.png){height=160 style="margin-left: 0"}<br>
 
-# Vivliostyle Pubを支える関連プロジェクト
+# Vivliostyle Pubを支える関連プロジェクト {#pub-rel-projects}
 
-## Vivliostyle Themes スタイルテーマ
+## Vivliostyle Themes スタイルテーマ {#themes}
 
 これからの課題:<br>
 https://github.com/vivliostyle/themes/issues
@@ -81,7 +95,7 @@ https://github.com/vivliostyle/themes/issues
 
 など。
 
-## Vivliostyle CLI コマンドラインツール
+## Vivliostyle CLI コマンドラインツール {#cli}
 
 これからの課題:<br>
 https://github.com/vivliostyle/vivliostyle-cli/issues
@@ -91,7 +105,7 @@ https://github.com/vivliostyle/vivliostyle-cli/issues
 
 など。
 
-## VFM (Vivliostyle Flavored Markdown)
+## VFM (Vivliostyle Flavored Markdown) {#vfm}
 
 これからの課題:<br>
 https://github.com/vivliostyle/vfm/issues
@@ -102,7 +116,7 @@ https://github.com/vivliostyle/vfm/issues
 
 など。
 
-## Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新
+## Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新 {#sitegen}
 
 Vivliostyleで使うMarkdown記法をVFMとして定めたので、Vivliostyle公式サイトやドキュメント類を書くのにもそれを使いたい！
 
@@ -112,9 +126,9 @@ https://github.com/vivliostyle/vivliostyle-sitegen
 今後このツールを使って、Vivliostyle公式サイトやドキュメント類を刷新していく予定。WebサイトをそのままVivliostyle CSS組版でプリント・レイアウトにするのも簡単に。
 
 
-# Vivliostyle.js:<br>CSS組版エンジン(Core)およびViewer
+# Vivliostyle.js:<br>CSS組版エンジン(Core)およびViewer {#js}
 
-## Vivliostyle.js CSS組版エンジン(Core)
+## Vivliostyle.js CSS組版エンジン(Core) {#core}
 
 これからの課題:<br>
 https://github.com/vivliostyle/vivliostyle.js/issues
@@ -126,7 +140,7 @@ https://github.com/vivliostyle/vivliostyle.js/issues
   など。CSSプロパティ処理を刷新し、ブラウザのCSS機能をVivliostyleでフルサポートできるように。
 - ページ、段組の組版処理を刷新して、[ルートやbody要素以外に指定された段組で起きていた不具合](https://github.com/vivliostyle/vivliostyle.js/issues/579)を解消。
 
-## Vivliostyle Viewerの機能向上
+## Vivliostyle Viewerの機能向上 {#viewer}
 
 Vivliostyle Viewerを電子出版ビューアとして用いるニーズから、これまでも次のような機能向上をしてきました：
 
@@ -136,9 +150,9 @@ Vivliostyle Viewerを電子出版ビューアとして用いるニーズから�
 
 2022年、さらなる機能向上を予定しています。お楽しみに。
 
-# Thank you! Contributors, Sponsors, and Partners
+# Thank you! Contributors, Sponsors, and Partners {#thanks}
 
-## Vivliostyleは皆様に支えられているオープンソース・プロジェクトです
+## Vivliostyleは皆様に支えられているオープンソース・プロジェクトです {#thanks-all}
 
 開発貢献者たち、スポンサー、協力者の皆様に感謝します！
 
