@@ -75,7 +75,7 @@ Vivliostyle Pubで作った本の印刷製本がスムーズにできるよう�
 - Vivliostyle Pubから提携先サービスに繋げるようにする予定
 - 印刷製本、電子書籍配信等、提携に関心あればご連絡下さい
 
-## Vivliostyle Pubの開発貢献者たちに感謝！ (#pub-thanks-contrib)
+## Vivliostyle Pubの開発貢献者たちに感謝！ {#pub-thanks-contrib}
 
 Vivliostyleの他のプロジェクトと同様、Vivliostyle Pubはオープンソースでボランティアの開発貢献者たちで開発されてます。
 
