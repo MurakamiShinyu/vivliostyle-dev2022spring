@@ -109,7 +109,7 @@ Vivliostyleで使うMarkdown記法をVFMとして定めたので、Vivliostyle�
 そこで、VFMで書いてWebサイトを作成するための、静的サイトジェネレーターVivliostyle Sitegenが作られました：  
 https://github.com/vivliostyle/vivliostyle-sitegen
 
-今後このツールを使って、Vivliostyle公式サイトやドキュメント類をリニューアル予定。WebサイトをそのままVivliostyle CSS組版でプリント・レイアウトにするのも簡単に。
+今後このツールを使って、Vivliostyle公式サイトやドキュメント類を刷新していく予定。WebサイトをそのままVivliostyle CSS組版でプリント・レイアウトにするのも簡単に。
 
 
 # Vivliostyle.js CSS組版エンジン
