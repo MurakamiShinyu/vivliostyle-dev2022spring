@@ -6,22 +6,22 @@ Vivliostyle Foundation
 
 # 目次 {.toc role="doc-toc"}
 
-1. [Vivliostyle Pub、2022年ついに公開！]{#vivliostyle-pub}
-    1. [Vivliostyle Pubアルファ版公開]{#pub-alpha}
-    1. [Vivliostyle Pubでできること]{#pub-features}
-    1. [アルファ版の主な制限と、今後の開発]{#pub-dev-plan}
-    1. [Vivliostyle Pubで作った本の印刷製本には]{#pub-print-book}
+1. [Vivliostyle Pub、2022年ついに公開！](#vivliostyle-pub)
+    1. [Vivliostyle Pubアルファ版公開](#pub-alpha)
+    1. [Vivliostyle Pubでできること](#pub-features)
+    1. [アルファ版の主な制限と、今後の開発](#pub-dev-plan)
+    1. [Vivliostyle Pubで作った本の印刷製本には](#pub-print-book)
     1. [Vivliostyle Pubの開発貢献者たちに感謝！ (#pub-thanks-contrib)
-1. [Vivliostyle Pubを支える関連プロジェクト]{#pub-rel-projects}
-    1. [Vivliostyle Themes スタイルテーマ]{#themes}
-    1. [Vivliostyle CLI コマンドラインツール]{#cli}
-    1. [VFM (Vivliostyle Flavored Markdown)]{#vfm}
-    1. [Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新]{#sitegen}
-1. [Vivliostyle.js:CSS組版エンジン(Core)およびViewer]{#js}
-    1. [Vivliostyle.js CSS組版エンジン(Core)]{#core}
-    1. [Vivliostyle Viewerの機能向上]{#viewer}
-1. [Thank you! Contributors, Sponsors, and Partners]{#thanks}
-    1. [Vivliostyleは皆様に支えられているオープンソース・プロジェクトです]{#thanks-all}
+1. [Vivliostyle Pubを支える関連プロジェクト](#pub-rel-projects)
+    1. [Vivliostyle Themes スタイルテーマ](#themes)
+    1. [Vivliostyle CLI コマンドラインツール](#cli)
+    1. [VFM (Vivliostyle Flavored Markdown)](#vfm)
+    1. [Vivliostyle Sitegenと、Vivliostyle公式サイトやドキュメント類の刷新](#sitegen)
+1. [Vivliostyle.js:CSS組版エンジン(Core)およびViewer](#js)
+    1. [Vivliostyle.js CSS組版エンジン(Core)](#core)
+    1. [Vivliostyle Viewerの機能向上](#viewer)
+1. [Thank you! Contributors, Sponsors, and Partners](#thanks)
+    1. [Vivliostyleは皆様に支えられているオープンソース・プロジェクトです](#thanks-all)
 
 # Vivliostyle Pub、<br>2022年ついに公開！ {#vivliostyle-pub}
 
