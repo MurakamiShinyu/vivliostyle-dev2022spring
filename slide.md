@@ -15,7 +15,7 @@ Vivliostyle Foundation
     1. [Vivliostyle Pubでできること](#pub-features)
     1. [アルファ版の主な制限と、今後の開発](#pub-dev-plan)
     1. [Vivliostyle Pubで作った本の印刷製本には](#pub-print-book)
-    1. [Vivliostyle Pubの開発貢献者たちに感謝！ (#pub-thanks-contrib)
+    1. [Vivliostyle Pubの開発貢献者たちに感謝！](#pub-thanks-contrib)
 1. [Vivliostyle Pubを支える関連プロジェクト](#pub-rel-projects)
     1. [Vivliostyle Themes スタイルテーマ](#themes)
     1. [Vivliostyle CLI コマンドラインツール](#cli)
