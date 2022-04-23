@@ -1,5 +1,7 @@
 ---
 lang: ja
+title: Vivliostyleの2022年開発計画を展望する
+author: Shinyu Murakami
 ---
 
 # Vivliostyleの2022年開発計画を展望する {style="letter-spacing: -0.02em"}
