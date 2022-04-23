@@ -6,7 +6,7 @@ Vivliostyle Foundation
 
 # 目次 {.toc role="doc-toc"}
 
-1. [Vivliostyle Pub](#vivliostyle-pub)
+1. [Vivliostyle Pub、2022年ついに公開！](#vivliostyle-pub)
   1. [Vivliostyle Pubアルファ版公開](#pub-alpha)
 
 # Vivliostyle Pub、<br>2022年ついに公開！ {#vivliostyle-pub}
